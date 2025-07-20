@@ -8,6 +8,12 @@ Through this project, I gained practical experience in transforming raw data int
 
 ---
 
+## 📸 Dashboard Preview
+
+![Power BI Dashboard](dashboard.png.png)
+
+---
+
 ## ✅ Key Features & Concepts Implemented
 
 ### 🔧 Data Preparation & Modeling
@@ -46,7 +52,7 @@ Through this project, I gained practical experience in transforming raw data int
 ## 📂 Files Included
 
 - `PowerBI_Dashboard_Project.pbix` – Fully functional report
-- `dashboard.png` – Report screenshot preview
+- `dashboard.png.png` – Report screenshot preview
 - `PowerBI_Dashboard_Export.pdf` – (optional, if exported)
 
 ---
